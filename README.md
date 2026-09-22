@@ -7,7 +7,7 @@ Implementação de *runtime* e núcleo de transformadores para avatares interati
 
 ---
 
-## 🛠️ Arquitetura e Módulos
+##  Arquitetura e Módulos
 
 O projeto é composto por módulos altamente desacoplados e baseados em transformadores:
 
@@ -24,7 +24,7 @@ O projeto é composto por módulos altamente desacoplados e baseados em transfor
 
 ---
 
-## 📦 Instalação
+## Instalação
 
 ### Pré-requisitos
 Certifique-se de que tem o Python 3.10 ou superior instalado.
@@ -61,13 +61,13 @@ if __name__ == "__main__":
 
 ---
 
-## 🤝 Contribuições
+##  Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *Issues* ou enviar *Pull Requests* para melhorias nos modelos de animação ou pipeline de áudio.
 
 ---
 
-## 📝 Licença
+##  Licença
 
 Este projeto está licenciado sob a licença **MIT** - consulte o arquivo `LICENSE` para obter mais detalhes.
 ```
